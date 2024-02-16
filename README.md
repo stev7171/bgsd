@@ -1,7 +1,6 @@
 ## BGSD  
 BGSD, or Big-Goofy Software Distro is an open-source python OS emulation framework. It has drivers for a custom file system I came up with called goofyFS, or gFS for short.  
-BGSD is intended to help people get into python, by making cli apps somewhat more simple. BGSD is currently under active development, so bugs and annoying-to-use functions do exist. Keep that in mind  
-and thanks for checking it out.  
+BGSD is intended to help people get into python, by making cli apps somewhat more simple. BGSD is currently under active development, so bugs and annoying-to-use functions do exist. Keep that in mind and thanks for checking it out.  
 
 ## Drivers
 error_screen: pops up with a windows-style error screen in the terminal. In order to use it, you have to set drivers.err_msg and drivers.err_code.  
