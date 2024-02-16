@@ -13,4 +13,8 @@ mount_drive: mounts a gFS-formatted json file located in the mnt directory. Argu
 shutdown: shuts down the OS.  
 clear: clears the screen.  
 draw_line_h: draws a horizontal line. Arguments: length: int. Returns the line (you have to output it yourself)  
-draw_line_v: draws a vertical line. Arguments: length: int. Returns the line (you have to output it yourself)
+draw_line_v: draws a vertical line. Arguments: length: int. Returns the line (you have to output it yourself)  
+
+## Help
+If you're confused about the mnt directory, you have to create the mnt folder in the same folder as the bgsd.py file.
+IF you're having trouble running the code, download the Python interpreter at https://www.python.org/downloads/.
