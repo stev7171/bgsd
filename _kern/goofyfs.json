@@ -1,0 +1,1 @@
+{"PARTITION-GFS.A": {".BOOT": {"LDR": "_boot/bootsetup", "EXE": "TRUE"}, "A:/": {"KERNEL.PTR": {"FLC": "_kern/startup.py", "EXE": "TRUE", "_FL": "TRUE", "DIR": ""}}, "DRV": "A:/"}}
